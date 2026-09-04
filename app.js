@@ -1,4 +1,4 @@
-const API = "http://192.168.8.137:5000";
+const API = "https://proof-screens-atm-weights.trycloudflare.com";
 
 const status = document.getElementById("status");
 const fileList = document.getElementById("fileList");
